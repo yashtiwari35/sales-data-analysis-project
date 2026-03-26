@@ -26,5 +26,20 @@ This project focuses on analyzing sales data to extract meaningful insights and 
 - Sales increased steadily over time
 - Central regions performed better than others
 
+
+ ##  Dashboard Preview
+
+### Sales by Region
+![Sales](Sales_by_Region.png)
+
+### Profit by Category
+![Profit](Profit_by_category.png)
+
+### Yearly sales Trends
+![Yearly_sales](yearly_sales_Trend.png)
+
+### Full Dashboard
+![Dashboard](Sales_order_Dashboard.png)
+
 ###  Objective
 To analyze business sales data and provide actionable insights for improving profitability and performance.
