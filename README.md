@@ -26,5 +26,5 @@ This project focuses on analyzing sales data to extract meaningful insights and 
 - Sales increased steadily over time
 - Certain regions performed better than others
 
-### 🎯 Objective
+###  Objective
 To analyze business sales data and provide actionable insights for improving profitability and performance.
